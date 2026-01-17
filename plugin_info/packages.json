@@ -1,0 +1,10 @@
+{
+  "pip3": {
+    "huawei-lte-api": {"version": "1.11.0"},
+    "dicttoxml": {"version": "1.7.16"},
+    "xmltodict": {"version": "1.0.2"},
+    "requests": {"version": "2.32.5"},
+    "setuptools": {"version": "80.9.0"},
+    "pyudev": {"version": "0.24.4"}
+  }
+}
